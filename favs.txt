@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1731398524224,
+        "image": "https://foodish-api.com/images/pizza/pizza39.jpg",
+        "category": "pizza",
+        "date-added": "11/12/2024"
+    },
+    {
+        "id": 1731398533880,
+        "image": "https://foodish-api.com/images/pizza/pizza86.jpg",
+        "category": "pizza",
+        "date-added": "11/12/2024"
+    },
+    {
+        "id":1731398539459,
+        "image":"https://foodish-api.com/images/pizza/pizza42.jpg",
+        "category":"pizza",
+        "date-added":"11/12/2024"
+    },
+    {
+        "id":1731400303299,
+        "image":"https://foodish-api.com/images/burger/burger75.jpg",
+        "category":"burger",
+        "date-added":"11/12/2024"
+    },
+    {
+        "id":1731400308743,
+        "image":"https://foodish-api.com/images/burger/burger70.jpg",
+        "category":"burger",
+        "date-added":"11/12/2024"
+    },
+    {
+        "id":1731400312509,
+        "image":"https://foodish-api.com/images/burger/burger78.jpg",
+        "category":"burger",
+        "date-added":"11/12/2024"
+    },
+    {
+        "id":1731400328779,
+        "image":"https://foodish-api.com/images/pizza/pizza87.jpg",
+        "category":"pizza",
+        "date-added":"11/12/2024"
+    },
+    {
+        "id":1731400347626,
+        "image":"https://foodish-api.com/images/rice/rice29.jpg",
+        "category":"rice",
+        "date-added":"11/12/2024"
+    },
+      {
+        "id":1731400347627,
+        "image":"https://foodish-api.com/images/burger/burger21.jpg",
+        "category":"burger",
+        "date-added":"11/12/2024"
+    },
+      {
+        "id":1731400355503,
+        "image":"https://foodish-api.com/images/rice/rice17.jpg",
+        "category":"rice",
+        "date-added":"11/12/2024"
+    }
+]

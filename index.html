@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Favorites - Home</title> <link rel="stylesheet" href="main.css">
+    <script src="main.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li id="home-link" class="active">Home</li>
+                <li id="gallery-link"><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="group-selection">
+            <label><input type="radio" name="category" value="burger" checked> Burger</label>
+            <label><input type="radio" name="category" value="pizza"> Pizza</label>
+            <label><input type="radio" name="category" value="rice"> Rice</label>
+        </section>
+        <section id="container">
+            <div id="selection-container">
+                <img id="food-image" src="" alt="Food Image">
+            </div>
+            <div id="info-actions">
+                <div id="info">
+                    <p>Category: <span id="food-group"></span></p> <p>URL: <span id="food-url"></span></p>
+                </div>
+                <div id="actions">
+                    <button id="favorite-btn" class="icon-heart-outline">🤍 Like it</button>
+                    <button id="next-btn" class="icon-next">➜ Next</button>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
