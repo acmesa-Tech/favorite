@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const galleryContainer = document.getElementById('gallery-container');
     const categoryRadios = document.querySelectorAll('input[name="category"]');
-    const url = "http://localhost:8000/";
+    const url = "";
     const filename = "favs.txt";
 
     async function loadFavorites(category) {
